@@ -1,0 +1,64 @@
+div#customers-testimonials {
+    background: #f33f02;
+    padding: 100px 0px;
+}
+div#customers-testimonials-2 {
+    background: #5a5a5a;
+    padding: 100px 0px;
+}
+
+.slider-info h5{
+    margin: 0 0 15px;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.slider-info span {
+color: red;
+}
+.slider-info p{
+font-size: 14px;
+}
+
+
+
+
+
+.slider-info {
+    /* padding: 20px 10px; */
+    background-color: #333333;
+    color: #fff;
+    padding: 20px 10px;
+    text-align: left;
+    min-height: 131px;
+
+}
+
+.owl-carousel .owl-next,
+.owl-carousel .owl-prev {
+  width: 50px;
+  height: 50px;
+  line-height: 50px !important;
+  border-radius: 50% !important;
+  position: absolute;
+  top: 40%;
+  font-size: 20px !important;
+  color: #fff !important;
+  border: 1px solid #ddd !important;
+  text-align: center;
+}
+
+.owl-carousel .owl-prev {
+  left: -70px;
+}
+.owl-carousel .owl-next {
+  right: -70px;
+}
+
+.owl-carousel .owl-nav [class*='owl-'] {
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+.owl-carousel .owl-nav [class*='owl-'].disabled:hover {
+  background-color: #D6D6D6 !important;
+}

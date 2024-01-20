@@ -1,3 +1,27 @@
+# Owl Carousel Examples
+
+This repository contains two distinct examples of implementing Owl Carousel in a web project. One is a static carousel with hardcoded items, and the other is a dynamic carousel that loads items from a JSON file.
+
+## Static Carousel
+
+The static carousel is a straightforward implementation of Owl Carousel with predefined items. It's a great starting point for understanding how to integrate Owl Carousel into your website.
+
+### Features
+- Basic Owl Carousel setup
+- Custom navigation buttons
+- Responsive design
+
+## JSON Carousel
+
+The JSON Carousel dynamically loads its items from a JSON file. This approach is useful for scenarios where carousel items need to be dynamically generated or fetched from an external source.
+
+### Features
+- Dynamic item rendering from JSON data
+- Custom styling and navigation
+- Responsive and interactive
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
